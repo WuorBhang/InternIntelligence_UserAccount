@@ -24,14 +24,14 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/WuorBhang/UserAccount.git
+   git@github.com:WuorBhang/InternIntelligence_UserAccount.git
 
 Navigate to the project directory:
 
 bash
 
 ```bash
-cd UserAccount
+cd InternIntelligence_UserAccount
 ```
 
 Create a virtual environment:
